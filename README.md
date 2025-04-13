@@ -1,5 +1,5 @@
 # Projects
 
 ## Drone
-docs/assets/V1_Perspective.png
+![Alt text](docs/assets/V1_Perspective.png)
 
