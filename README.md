@@ -15,6 +15,7 @@ Drone on the day of the first (indoor) test flight
 ![Alt text](docs/assets/V4_4.jpg)
 
 ## V4
+The three 3D printed parts on the drone in Fusion
 ![Alt text](docs/assets/V4_9_Fusion.png)
 Version 4 seen from underneath
 ![Alt text](docs/assets/V4_5.jpg)
