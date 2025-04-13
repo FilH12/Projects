@@ -9,6 +9,6 @@ Another view of that version, this time without the propellers and the battery
 
 V2\
 
-\
+V3\
 
 Video from a flight:
