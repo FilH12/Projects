@@ -23,3 +23,5 @@ Version 4 seen from underneath
 Same version but the bottom frame is now made out of PETG, which, by being more flexible, should be able to withstand more impacts compared to a more brittle PLA frame.
 ![Alt text](docs/assets/V4_8.jpg)
 
+# Mechanical system to simulate recoil on electric airsoft replicas 
+WIP
