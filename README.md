@@ -29,4 +29,4 @@ https://github.com/user-attachments/assets/cbfef000-9221-4b31-8948-5795e64ba859
 
 
 # Mechanical system to simulate recoil on electric airsoft replicas 
-WIP
+Website WIP
