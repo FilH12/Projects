@@ -15,6 +15,7 @@ Drone on the day of the first (indoor) test flight
 ![Alt text](docs/assets/V4_4.jpg)
 
 ## V4
+![Alt text](docs/assets/V4_9_Fusion.png)
 Version 4 seen from underneath
 ![Alt text](docs/assets/V4_5.jpg)
 ![Alt text](docs/assets/V4_7.jpg)
